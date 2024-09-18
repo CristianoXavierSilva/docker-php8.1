@@ -1,0 +1,4 @@
+.idea/*
+apache2/logs/*
+apache2/certs/*
+php/*
